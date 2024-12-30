@@ -1,6 +1,10 @@
 # 💫 About Me:
-I'm currently studying in Masters of Computer Applications (MCA).<br>I'm passionate about front end development (HTML, CSS, JavaScript, jQuery).<br> 
+## Hi there 👋, it's Pruthvi here
+**pruthvi-m-y/pruthvi-m-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I’m currently studying in Masters of Computer Applications (MCA).
+- 🌱 I’m intrested in Front End Development (HTML, CSS, JavaScript, JQuery).
+- 📫 How to reach me: pruthvimy2003@gmail.com 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthvi-m-y-503473201) 
