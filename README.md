@@ -1,6 +1,5 @@
 # 💫 About Me:
 ## Hi there 👋, it's Pruthvi here
-**pruthvi-m-y/pruthvi-m-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently studying in Masters of Computer Applications (MCA).
 - 🌱 I’m intrested in Front End Development (HTML, CSS, JavaScript, JQuery).
